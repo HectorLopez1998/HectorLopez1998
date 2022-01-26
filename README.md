@@ -1,4 +1,4 @@
-- ## 👋 Hi, my name is Hector Lopez and I am a Software Engineer based in Florida!
+## 👋 Hi, my name is Hector Lopez and I am a Software Engineer based in Florida!
 - 💻 Full-stack developer.
 - 🏫 Flatiron School alumnus.
 - ⭐ Passion for creating beautiful and functional websites.
