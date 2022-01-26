@@ -7,6 +7,7 @@ linkedin.com/in/hector-lopez-082a4a1bb
 ✉ Email
 hectorlopezp1998@gmail.com
 
+## About me:
 - 💻 Full-stack developer.
 - 🏫 Flatiron School alumnus.
 - ⭐ Passion for creating beautiful and functional websites.
