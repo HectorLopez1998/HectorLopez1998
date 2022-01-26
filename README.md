@@ -1,10 +1,11 @@
-- 👋 Hi, my name is Hector Lopez
-- 👀 I’m interested in everything related to tech
-- 🌱 I’m currently learning web and mobile development
-- 💞️ I’m looking to collaborate on projects that aim to change the world for the better
-- 📫 How to reach me:
--  email = hectorlopezp1998@gmail.com
-
+- ## 👋 Hi, my name is Hector Lopez and I am a Software Engineer based in Florida!
+- 💻 Full-stack developer.
+- 🏫 Flatiron School alumnus.
+- ⭐ Passion for creating beautiful and functional websites.
+- 🤝 Open to collaborate(especialy if you are trying to make the world a better place).
+- 💼 Currently in the job market.
+- 💬 Feel free to reach out! I'm always open for a chat.
+-  😊 Thing I enjoy: 💻 programming, 🏋️ excercising, ✈️ traveling, 📚 reading.
 <!---
 HectorLopez1998/HectorLopez1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
