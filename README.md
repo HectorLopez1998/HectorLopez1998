@@ -12,4 +12,4 @@ hectorlopezp1998@gmail.com
 - 🤝 Open to collaborate(especialy if you are trying to make the world a better place).
 - 💼 Currently in the job market.
 - 💬 Feel free to reach out! I'm always open for a chat.
--  😊 Thing I enjoy: 💻 programming, 🏋️ excercising, ✈️ traveling, 📚 reading.
+- 😊 Thing I enjoy: 💻 programming, 🏋️ excercising, ✈️ traveling, 📚 reading.
