@@ -1,4 +1,4 @@
-## 👋 Hi, my name is Hector Lopez and I am a Software Engineer based in Florida!
+## 👋 Hi, my name is Hector Lopez and I am a Software Engineer based in the US!
 ## How to reach me
 
 Linkedin
